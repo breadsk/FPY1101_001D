@@ -1,12 +1,26 @@
-primerNombre = "Fernando"
-segundoNombre = "Manuel"
-apellidoP = "Aguirre"
-apellidoM = "Soto"
-rut = "20874524-7"
-ciudad = "Santiago"
-pais = "Chile"
-edad = 25
-altura = 1.78
+#nombreCompleto = "     Nicolas Vladimir Caceres Latorre   "
+#nombreCompleto = nombreCompleto.strip()
+#nombreCompleto = nombreCompleto.lower()
+#nombreCompleto = nombreCompleto.upper()
+
+nombreCompleto = "juan"                  
+nombreCompleto = "macarena"
+
+#print(nombreCompleto[0:4])
+
+#for letra in nombreCompleto:
+#    print(letra)
+
+#primerNombre = "Fernando"
+#segundoNombre = "Manuel"
+#apellidoP = "Aguirre"
+#apellidoM = "Soto"
+#rut = "20874524-7"
+#ciudad = "Santiago"
+#pais = "Chile"
+#edad = 25
+#altura = 1.78
+#nombreCompleto = nombreCompleto.capitalize()
 
 #print("Su nombre es: " primerNombre + ", su segundo nombre es: " +  segundoNombre + "")
 
